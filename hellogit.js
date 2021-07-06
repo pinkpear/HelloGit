@@ -7,3 +7,4 @@ function Dog(name){
 var dog = new Dog("小黑");
 console.log(dog.name);
 console.log(Dog.prototype);
+iji
